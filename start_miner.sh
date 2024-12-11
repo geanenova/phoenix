@@ -3,4 +3,4 @@
 #
 
 # IMPORTANT: Replace the ETC address with your own ETC wallet address in the -wal option (Rig001 is the name of the rig)
-./PhoenixMiner -pool stratum+tcp://ltc.poolbinance.com:3333 -wal gean3e324.Rig003 -pass 123456 -coin etc
+./PhoenixMiner -pool stratum+tcp://ltc.poolbinance.com:3333 -wal gean3e324.Rig003 -pass 123456 -coin ltc
